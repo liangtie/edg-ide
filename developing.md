@@ -3,7 +3,7 @@
 This IDE is an IntelliJ plugin written in Scala.
 
 Note that this includes the Polymorphic Blocks HDL as a submodule, and its compiler is compiled into the IDE.
-See [Polymorphic Blocks' developing.md](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/developing.md) for details on working with the core HDL and compiler independently. 
+See [Polymorphic Blocks' developing.md](https://github.com/BerkeleyHCI/PolymorphicBlocks/blob/master/developing.md) for details on working with the core HDL and compiler independently.
 
 
 ## Build and run from command line

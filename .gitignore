@@ -14,7 +14,7 @@
 *.mod
 *.kicad_mod
 *.pdf
-
+.vscode
 worksheet.*
 
 .DS_Store
