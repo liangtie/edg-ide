@@ -6,7 +6,9 @@
 /project/project
 /target/
 /.bsp
-
+.bloop
+.metals
+metals.sbt
 .idea
 .project
 *.iml
